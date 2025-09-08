@@ -1,0 +1,4 @@
+*.csv
+sdss_images/
+catboost_info
+templates
