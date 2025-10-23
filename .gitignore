@@ -1,4 +1,3 @@
 *.csv
 sdss_images/
-catboost_info
-templates
+models/*.joblib
